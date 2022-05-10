@@ -1,16 +1,16 @@
 body {
-  background-color: #ddd;
+  background-color: rgb(223, 206, 60);
 }
 h1 {
   text-align: center;
-  color: rgba(0, 0, 0, 0.686);
+  color: rgba(0, 0, 0, 0.787);
   margin: 100px 0 50px 0;
   font-size: 2.5em;
 }
 p {
-  width: 600px;
+  width: 550px;
   margin: auto;
-  color: rgba(0, 0, 0, 0.614);
+  color: rgba(0, 0, 0, 0.704);
   font-size: 1.1em;
   line-height: 1.5;
 }
